@@ -75,39 +75,391 @@ The third homework is an introduction to the panel method of sea-keeping analysi
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Design project | 80% |
-| Homework | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design project
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | PROJECT ACTIVITIES | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction | Work on design 1 | &nbsp; |
-| 2 | Ship Design Tool: PARAMARINE | Design 1 (ship sizing and hydrostatics) out; HW 1 out |
-| 3 | Ship Hydrostatics and Structures | &nbsp; |
-| 4 | Ship Hydrostatics and Structures (cont.) | HW 1 due |
-| 5 | Seakeeping | &nbsp; |
-| 6 | Seakeeping (cont.) | &nbsp; |
-| 7 | Seakeeping (cont.) | &nbsp; |
-| 8 | Seakeeping (cont.) | Design 1 due; HW 2 out |
-| 9 | Drift Loads/Motions | Work on design 2 | Design 1 feedback; Design 2 (seakeeping analysis) out |
-| 10 | Slowly-Varying Loads/Motions | HW 2 due |
-| 11 | Slowly-Varying Loads/Motions (cont.) | &nbsp; |
-| 12 | Ocean Environment | &nbsp; |
-| 13 | Ocean Environment (cont.) | &nbsp; |
-| 14 | Mooring Dynamics | Design 2 due; HW 3 out |
-| 15 | Mooring Dynamics (cont.) | Work on design 3 | &nbsp; |
-| 16 | Mooring Design | HW 3 due; Design 3 out |
-| 17 | Manufacturing/Fabrication | &nbsp; |
-| 18 | Manufacturing/Fabrication (cont.) | &nbsp; |
-| 19 | Ship Resistance | &nbsp; |
-| 20 | Ship Resistance (cont.) | Design 3 due |
-| 21 | Ship Slamming | Integrate final report and prepare for final presentation | Design 3 feedback; practice presentation |
-| 22 | Roll Control | &nbsp; |
-| 23 | Propulsion | &nbsp; |
-| 24 | Advanced Topics | Final presentations | Final presentation due |
-| 25 | Advanced Topics (cont.) | Work on final report | &nbsp; |
-| 26 | Summary and Conclusion | Final report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROJECT ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Work on design 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Design Tool: PARAMARINE
+{{< tdclose >}}
+{{< tdopen >}}
+Design 1 (ship sizing and hydrostatics) out; HW 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Hydrostatics and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Hydrostatics and Structures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Design 1 due; HW 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Drift Loads/Motions
+{{< tdclose >}}
+{{< tdopen >}}
+Work on design 2
+{{< tdclose >}}
+{{< tdopen >}}
+Design 1 feedback; Design 2 (seakeeping analysis) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly-Varying Loads/Motions
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly-Varying Loads/Motions (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Environment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Environment (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+Design 2 due; HW 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Dynamics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Work on design 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Design
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 due; Design 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing/Fabrication
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing/Fabrication (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Resistance (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Design 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Slamming
+{{< tdclose >}}
+{{< tdopen >}}
+Integrate final report and prepare for final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Design 3 feedback; practice presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Roll Control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Propulsion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Topics
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Topics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Work on final report
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Summary and Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

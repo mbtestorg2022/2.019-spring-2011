@@ -48,23 +48,209 @@ These topics are chosen by the students based on their interest in ocean science
 {{< anchor "Selected_Lecture_Notes" >}}{{< /anchor >}}Selected Lecture Notes
 ----------------------------------------------------------------------------
 
-| SES # | TOPICS | NOTES |
-| --- | --- | --- |
-| 1 | Introduction | N/A |
-| 2 | Ship Design Tool: PARAMARINE™ | N/A |
-| 3 | Ship Hydrostatics and Structures | ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_019s11_hydstr1)) |
-| 4 | Ship Hydrostatics and Structures (cont.) | N/A |
-| 5 | Seakeeping | ([PDF]({{< baseurl >}}/resources/mit2_019s11_sk1)) |
-| 6 | Seakeeping (cont.) | ([PDF]({{< baseurl >}}/resources/mit2_019s11_sk2)) |
-| 7 | Seakeeping (cont.) | ([PDF]({{< baseurl >}}/resources/mit2_019s11_sk3)) |
-| 8 | Seakeeping (cont.) | ([PDF]({{< baseurl >}}/resources/mit2_019s11_sk4)) |
-| 9 | Drift Loads/Motions | ([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl1)) |
-| 10 | Slowly-Varying Loads/Motions | ([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl2)) |
-| 11 | Slowly-Varying Loads/Motions (cont.) |
-| 12 | Ocean Environment | ([PDF]({{< baseurl >}}/resources/mit2_019s11_owe)) |
-| 13 | Ocean Environment (cont.) |
-| 14 | Mooring Dynamics | ([PDF]({{< baseurl >}}/resources/mit2_019s11_md1)) |
-| 15 | Mooring Dynamics (cont.) | ([PDF]({{< baseurl >}}/resources/mit2_019s11_md2)) |
-| 16 | Mooring Design | ([PDF]({{< baseurl >}}/resources/mit2_019s11_md3)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Design Tool: PARAMARINE™
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Hydrostatics and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_019s11_hydstr1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ship Hydrostatics and Structures (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_sk1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_sk2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_sk3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Seakeeping (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_sk4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Drift Loads/Motions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly-Varying Loads/Motions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_dvl2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly-Varying Loads/Motions (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Environment
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_owe))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Ocean Environment (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_md1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Dynamics (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_md2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Mooring Design
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_019s11_md3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional material for SES #16: pp. 9-122 to 9-124 and pp. 9-71 to 9-73 in Barltrop, N., ed. _Floating Structures: A Guide for Design and Analysis_. Vol. 2. Oilfield Publications, Incorporated, 1998. ISBN: 9781870553353.

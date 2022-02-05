@@ -81,13 +81,66 @@ Extreme hogging condition: ballast condition coupled with a wave of approximatel
 
 Characteristics of the 100-year return period storm for the Gulf of Mexico
 
-| CHARACTERISTICS | REQUIREMENTS |
-| --- | --- |
-| Wind speed (knots) | 80 |
-| Current speed (knots) | 2.1 |
-| Significant wave height (m) | 12.2 |
-| Maximum wave height (m) | 22.8 |
-| Wave period (sec) | 14 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHARACTERISTICS
+{{< thclose >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wind speed (knots)
+{{< tdclose >}}
+{{< tdopen >}}
+80
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Current speed (knots)
+{{< tdclose >}}
+{{< tdopen >}}
+2.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Significant wave height (m)
+{{< tdclose >}}
+{{< tdopen >}}
+12.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Maximum wave height (m)
+{{< tdclose >}}
+{{< tdopen >}}
+22.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Wave period (sec)
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Resources for Part 1
 --------------------
