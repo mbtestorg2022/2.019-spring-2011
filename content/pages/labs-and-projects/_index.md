@@ -84,14 +84,14 @@ Main Design Areas
 Design Project References
 -------------------------
 
-"Guide for Building and Classing Floating Production Installations." American Bureau of Shipping, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/82_FloatingProductionInstallations/Pub82_FPI_Guide))
+"Guide for Building and Classing Floating Production Installations." American Bureau of Shipping, 2010. ([PDF - 3.1MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/82_FloatingProductionInstallations/Pub82_FPI_Guide))
 
-"Guide for 'Dynamic Loading Approach' for Floating Production, Storage and Offloading (FPSO) Installations." American Bureau of Shipping, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/101_SafeHullDLAforFPSOSystems/Pub101_FPSO_DLA))
+"Guide for 'Dynamic Loading Approach' for Floating Production, Storage and Offloading (FPSO) Installations." American Bureau of Shipping, 2010. ([PDF](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/101_SafeHullDLAforFPSOSystems/Pub101_FPSO_DLA))
 
-Sections 5.1 to 5.4 of "Common Structural Rules for Double Hull Oil Tankers." American Bureau of Shipping, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.4MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/2_SVR_2011/part5acsrtanker2010))
+Sections 5.1 to 5.4 of "Common Structural Rules for Double Hull Oil Tankers." American Bureau of Shipping, 2010. ([PDF - 7.4MB](http://www.eagle.org/eagleExternalPortalWEB/ShowProperty/BEA%20Repository/Rules&Guides/Current/2_SVR_2011/part5acsrtanker2010))
 
-International Maritime Organization. Regulation 22 from _MARPOL Consolidated Edition_. International Maritime Organization, 2006. ISBN: 9789280142167. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 13.0MB](https://www.amazon.com/Marpol-Consolidated-International-Maritime-Organization/dp/928014216X))
+International Maritime Organization. Regulation 22 from _MARPOL Consolidated Edition_. International Maritime Organization, 2006. ISBN: 9789280142167. ([PDF - 13.0MB](https://www.amazon.com/Marpol-Consolidated-International-Maritime-Organization/dp/928014216X))
 
 Offshore-Technology.com. "[Elf exploration field – Girassol, Luanda, Angola](http://www.offshore-technology.com/projects/girassol/)." Accessed July 12, 2011.
 
-Doumont, Jean-Luc. Part Four, "Effective Graphical Displays." _Trees, Maps, and Theorems_. Principiae, 2009. ISBN: 9789081367707. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.principiae.be/book/pdfs/TM&Th-4.0-summary.pdf))
+Doumont, Jean-Luc. Part Four, "Effective Graphical Displays." _Trees, Maps, and Theorems_. Principiae, 2009. ISBN: 9789081367707. ([PDF](https://www.principiae.be/book/pdfs/TM&Th-4.0-summary.pdf))
